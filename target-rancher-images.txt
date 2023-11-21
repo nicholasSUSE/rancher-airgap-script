@@ -1,0 +1,13 @@
+rancher/fleet-agent:v0.7.0
+rancher/fleet:v0.7.0
+rancher/gitjob:v0.1.54
+rancher/rancher-agent:v2.7.5
+rancher/rancher-csp-adapter:v2.0.2
+rancher/rancher-webhook:v0.3.5
+rancher/rancher:v2.7.5
+rancher/shell:v0.1.20
+rancher/webhook-receiver:v0.2.5
+rancher/nginx-ingress-controller:nginx-1.7.0-rancher1
+rancher/calico-cni:v3.25.0-rancher1
+rancher/externalip-webhook:v1.0.1
+rancher/flannel-cni:v0.3.0-rancher8
